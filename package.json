@@ -4,6 +4,7 @@
   "description": "Blockbench' Purplexed theme ported to VSCode",
   "version": "0.0.1",
   "publisher": "GeodeStudios",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Incernion/purplexed"

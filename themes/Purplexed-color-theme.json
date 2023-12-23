@@ -40,7 +40,6 @@
 
     "dropdown.border": "#2b2639",
     "dropdown.background": "#221e2a",
-    "settings.dropdownBorder": "#ff0000",
     "menu.selectionBackground": "#2b2639",
 
     "button.background": "#8e478c",
@@ -50,10 +49,6 @@
     "statusBar.background": "#8e478c",
     "statusBar.noFolderBackground": "#8e478c",
     "statusBar.debuggingBackground": "#cc70d4"
-
-    // "editorBracketHighlight.foreground1": "#eeffff",
-    // "editorBracketHighlight.foreground2": "#eeffff",
-    // "editorBracketHighlight.foreground3": "#eeffff"
   },
 
   "tokenColors": [
@@ -150,11 +145,6 @@
         "foreground": "#6cdaff"
       }
     },
-
-    // ------------
-    // Shit I change often ends here
-    // ------------
-
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
