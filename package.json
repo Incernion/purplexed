@@ -4,6 +4,10 @@
   "description": "Blockbench' Purplexed theme ported to VSCode",
   "version": "0.0.1",
   "publisher": "GeodeStudios",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Incernion/purplexed"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -18,5 +22,8 @@
         "path": "./themes/Purplexed-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.22.0"
   }
 }
