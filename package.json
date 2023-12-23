@@ -1,0 +1,22 @@
+{
+  "name": "purplexed",
+  "displayName": "Purplexed",
+  "description": "Blockbench' Purplexed theme ported to VSCode",
+  "version": "0.0.1",
+  "publisher": "GeodeStudios",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purplexed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purplexed-color-theme.json"
+      }
+    ]
+  }
+}
